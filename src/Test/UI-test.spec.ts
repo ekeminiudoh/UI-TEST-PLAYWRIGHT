@@ -1,5 +1,4 @@
-import { test } from "../fixtures/fixtures";
-import {LoginPage} from "../pages/login.page";
+import { test } from "../Fixtures/fixtures";
 
 test.describe("Items sorting test", () => {
 
