@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-
-
+    "ui:test": "playwright test src/test/UI-test.spec.ts",
+    "pw-test": "npx playwright test --reporter=html",
+    "pw-report": "npx playwright show-report"
   },
   "repository": {
     "type": "git",
