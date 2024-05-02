@@ -1,5 +1,5 @@
 import { Page, expect } from "@playwright/test";
-import helperMethods from "../utils/HelperMethods";
+import helperMethods from "../Utils/HelperMethods";
 //const dotenv = require('dotenv');
 
 export class LoginPage {
