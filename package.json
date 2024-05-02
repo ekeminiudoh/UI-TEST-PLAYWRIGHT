@@ -1,0 +1,25 @@
+{
+  "name": "ui-test-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ekeminiudoh/UI-TEST-PLAYWRIGHT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ekeminiudoh/UI-TEST-PLAYWRIGHT/issues"
+  },
+  "homepage": "https://github.com/ekeminiudoh/UI-TEST-PLAYWRIGHT#readme",
+  "keywords": [],
+  "author": "Ekemini Udoh",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.8"
+  }
+}
