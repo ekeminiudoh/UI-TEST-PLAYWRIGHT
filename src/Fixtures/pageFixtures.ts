@@ -1,6 +1,6 @@
 import { test as base } from '@playwright/test';
 
-import { LoginPage } from '../pages/login.page';
+import { LoginPage } from '../Pages/login.page';
 import {ItemsPage} from "../Pages/items.page";
 
 type pageFixtures = {
