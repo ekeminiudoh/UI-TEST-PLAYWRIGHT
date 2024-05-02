@@ -1,5 +1,5 @@
 import { Page, expect } from "@playwright/test";
-import HelperMethods from "../utils/HelperMethods";
+import HelperMethods from "../Utils/HelperMethods";
 
 export class ItemsPage {
     private page: Page;
