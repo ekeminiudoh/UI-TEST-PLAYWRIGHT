@@ -9,8 +9,8 @@ This repository contains automated UI tests for the provided task.
 ## Running tests locally
 
 #### Clone this repository
-```bash https://github.com/ekeminiudoh/UI-TEST-PLAYWRIGHT.git
-got clone git@github.com:ekeminiudoh/UI-TEST-PLAYWRIGHT.git
+```bash 
+git clone git@github.com:ekeminiudoh/UI-TEST-PLAYWRIGHT.git
 ```
 
 #### navigate to the project directory
@@ -67,9 +67,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 - [Playwright](https://playwright.dev/)
-- [Mocha](https://mochajs.org/)
-- [Chai](https://www.chaijs.com/)
-- [Axios](https://axios-http.com/)
 - [GitHub CI/CD](https://docs.github.com/ee/ci/)
 - [Docker](https://www.docker.com/)
 - [Node.js](https://nodejs.org/)
